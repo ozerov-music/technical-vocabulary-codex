@@ -19,3 +19,5 @@ The application will mimic the behaviour of a set of flashcards, cycling between
 - Interval (single and/or multiple via user option)
 - Direction (up up, up down, down up, down down)
 - Tempo Tracker
+- Articulation
+- Major, melodic minor, harmonic minor
