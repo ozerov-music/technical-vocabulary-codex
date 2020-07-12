@@ -22,8 +22,3 @@ The application will mimic the behaviour of a set of flashcards, cycling between
 - Articulation
 - Major, melodic minor, harmonic minor
 - Eventually, a chromatic version of the app, as well (this requires a different design, separately)
-
-## Disembodied Message To My Partner In Code:
-
-- Wait, Paul, you know Markdown?
-- Also, do you know how branches work in GIT?
