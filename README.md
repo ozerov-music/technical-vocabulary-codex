@@ -16,8 +16,9 @@ Welcome to the project, friend!
 The application will mimic the behaviour of a set of flashcards, cycling between different attributes.
 
 - Tonality
-- Interval (single and/or multiple via user option)
+- Interval (single and/or multiple via user option; let's include "modal scale" as an option as well)
 - Direction (up up, up down, down up, down down)
 - Tempo Tracker
 - Articulation
 - Major, melodic minor, harmonic minor
+- Eventually, a chromatic version of the app, as well (this requires a different design, separately)
