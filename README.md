@@ -26,3 +26,4 @@ The application will mimic the behaviour of a set of flashcards, cycling between
 ## Disembodied Message To My Partner In Code:
 
 - Wait, Paul, you know Markdown?
+- Also, do you know how branches work in GIT?
